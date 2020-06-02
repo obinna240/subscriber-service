@@ -1,0 +1,8 @@
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8995/eureka #we can use multiple peers here, i.e. eureka.instance.hostname in k8S We can use cluster ip http://${eureka.instance.hostname}:${server.port}/eureka/
+  instance:
+    hostname: localhost #replace with the eureka server name host
