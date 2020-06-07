@@ -1,6 +1,12 @@
 package com.brownbag.news.subscriberservice.news;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import org.apache.http.HttpEntity;
+import org.apache.http.HttpResponse;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
+//import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.impl.client.DefaultHttpClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpMethod;
@@ -20,9 +26,8 @@ import java.net.URI;
 public class SubscriberServiceController {
 
     public final String NEWSAPI = "http://newsapi.org/v2/top-headlines";
-    public final String APIKEY = "apiKey=fd902d9d92fc420ca5bd973ec15139e4";
-//    public final String DBSERVICEENDPOINT = "http://localhost:8991/api/v1/db/networks/name";
-    public final String DBSERVICEENDPOINT = "http://news-db-service/api/v1/db/networks/name";
+    public final String APIKEY = "fd902d9d92fc420ca5bd973ec15139e4";
+    public final String DBSERVICEENDPOINT = "http://localhost:8991/api/v1/db/networks/name";
     RestTemplate restTemplate;
     ObjectMapper objectMapper;
 
@@ -47,17 +52,25 @@ public class SubscriberServiceController {
 
         MultiValueMap<String, String> params = new LinkedMultiValueMap<String, String>();
 
-        params.add("source", newsName);
+//        params.add("source", newsName);
+        params.add("source", "bbc-news");
         params.add("apiKey", APIKEY);
-
+//http://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=fd902d9d92fc420ca5bd973ec15139e4
         URI uri = UriComponentsBuilder.fromUriString(NEWSAPI).queryParams(params).build().toUri();
-        return restTemplate.exchange(uri, HttpMethod.GET, null, new ParameterizedTypeReference<String>() {
+
+//        HttpClient httpClient = new DefaultHttpClient();
+//        HttpGet g = new HttpGet("http://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=fd902d9d92fc420ca5bd973ec15139e4");
+//        HttpResponse responses = httpClient.execute(g);
+//        System.out.println(responses.getStatusLine());
+//        HttpEntity entity = responses.getEntity();
+
+        ResponseEntity e = restTemplate.exchange(uri, HttpMethod.GET, null, new ParameterizedTypeReference<String>() {
             @Override
             public Type getType() {
                 return super.getType();
             }
         });
-
+        return e;
     }
 
 }

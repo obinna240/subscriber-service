@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Massachusetts Trump supporter, 82, ‘violently assaulted’ by motorist, 27, police say",
+      "description": "Nobody should be attacked for their political views, Charlie Chase says. But according to authorities, that’s exactly what happened last week to the 82-year-old U.S. military veteran and supporter of President Trump.",
+      "url": "https://www.foxnews.com/us/massachusetts-trump-supporter-82-violently-assaulted-by-motorist-27-police-say",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/10/maga-GettyImages-1161618415.jpg",
+      "publishedAt": "2020-06-07T06:07:22.7609323Z",
+      "content": "Nobody should be attacked for their political views, Charlie Chase says.\r\nBut according to authorities, that’s exactly what happened last week to the 82-year-old U.S. military veteran and supporter o… [+2389 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Ivanka Trump rips ‘cancel culture’ after she’s dropped as commencement speaker",
+      "description": "Ivanka Trump took to Twitter Friday evening to call out cancel culture after she was dropped as a commencement speaker for Wichita State University.",
+      "url": "https://www.foxnews.com/us/ivanka-trump-rips-cancel-culture-after-shes-dropped-as-commencement-speaker",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/AP20022460646851.jpg",
+      "publishedAt": "2020-06-07T03:37:20.9045205Z",
+      "content": "Ivanka Trump took to Twitter Friday evening to call out cancel culture after she was dropped as a commencement speaker for Wichita State University.\r\n“Our nation’s campuses should be bastions of free… [+1561 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Skydiver dead after South Carolina mishap, report says",
+      "description": "A skydiver died in South Carolina on Saturday after colliding with a plane in midair after missing a target area during a jump, according to a report.",
+      "url": "https://www.foxnews.com/us/skydiver-dead-after-south-carolina-mishap-report-says",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/CA-Skydiver-Deaths.jpg",
+      "publishedAt": "2020-06-07T03:22:18.4494372Z",
+      "content": "A skydiver died in South Carolina on Saturday after colliding with a plane in midair after missing a target area during a jump, according to a report.\r\nThe fatal accident was reported at Skydive Caro… [+846 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "NYC protest organizer threatens to take violence to Diamond District: 'Gasoline ... is awfully cheap'",
+      "description": "A man identifying himself as Ace Burns told Fox News on Saturday that if New York officials didn't provide a satisfactory response to protests, he and others would commit more acts of violence.",
+      "url": "https://www.foxnews.com/media/nyc-protester-diamond-district-gas",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Ace-Burns-FOX.jpg",
+      "publishedAt": "2020-06-06T22:37:21.7052766Z",
+      "content": "A man identifying himself as \"Ace Burns\" delivered an ominous threat to New Yorkers Saturday during a live interview on Fox News, warning that protesters could set fire to Manhattan's storied Diamond… [+2906 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "George Floyd protests continue in New York City as curfew stays in effect",
+      "description": "New York City is under an 8pm to 5am curfew in an effort to keep peace in the streets amid George Floyd unrest; Jacqui Heinirch reports",
+      "url": "https://video.foxnews.com/v/6162144159001/",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65b82031-f2ea-46c6-a725-452ee920b62b/b2fff22a-9663-43c4-a48e-eaa82d02fa80/1280x720/match/image.jpg",
+      "publishedAt": "2020-06-06T20:52:18.8747825Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Nicole Malliotakis reacts to NYC Mayor de Blasio denying link between protests, coronavirus",
+      "description": "Congressional candidate and New York Assemblywoman Nicole Malliotakis joins ‘Fox and Friends Weekend.’",
+      "url": "https://video.foxnews.com/v/6162123718001/",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb16410d-a72a-44c3-8d73-cf60a7a2fc7f/47f64331-47bf-4d9d-bf8f-01b34df7e2af/1280x720/match/image.jpg",
+      "publishedAt": "2020-06-06T18:22:26.8916378Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "What powers does the president have to use military to quell domestic unrest?",
+      "description": "Kevin Carroll, partner at Wiggin and Dana and Army Veteran, weighs in on ‘America’s News HQ.’",
+      "url": "https://video.foxnews.com/v/6162133677001/",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eba4557f-e2d2-43e4-855d-abdfd656fc56/3bfcfde7-38a0-4ecf-8395-16e13f9c73fd/1280x720/match/image.jpg",
+      "publishedAt": "2020-06-06T18:22:25.8450245Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Businesses work to reopen amid massive protests, loosened coronavirus restrictions",
+      "description": "Boston City Councilor-At-Large Annissa Essaibi and Louisiana State Representative Tony Bacala weigh in.",
+      "url": "https://video.foxnews.com/v/6162130904001/",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1026b265-9d14-45c5-90c3-b59f5d9222aa/9394b17a-3324-4acf-b5f5-57901b95e781/1280x720/match/image.jpg",
+      "publishedAt": "2020-06-06T18:22:24.8296515Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Organizers aim to bring a million protesters to Washington in largest BLM demonstration yet",
+      "description": "Washington D.C. is readying for its largest day of protests yet as Black Lives Matter demonstrators aim for one million people to march on the capital to protest after the death of George Floyd.",
+      "url": "https://www.foxnews.com/politics/protesters-aim-to-bring-one-million-to-march-on-washington-in-largest-blm-demonstration-yet",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Troops-White-House-REUTERS-1.jpg",
+      "publishedAt": "2020-06-06T18:22:19.0810813Z",
+      "content": "The nation's capital is bracing for its largest day of protests yet, with thousands of people expected to march Saturday against police brutality as the nation continues to mourn the death of George … [+4225 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Labor Secretary Eugene Scalia on getting Americans back to work as states reopen from COVID-19 lockdown",
+      "description": "Surprisingly strong new jobs report pointing to possible 'V-shaped' recovery for U.S. economy.",
+      "url": "https://video.foxnews.com/v/6162123956001/",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a05684f-e611-4065-8f56-d267aef8b7bc/f56e4449-3f6f-4a94-bc7c-90b230572b8e/1280x720/match/image.jpg",
+      "publishedAt": "2020-06-06T16:37:18.9940889Z",
+      "content": null
+    }
+  ]
+}

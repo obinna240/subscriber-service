@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MARTHA MENDOZA Associated Press",
+      "title": "Deputy killed, 2 other officers shot in California ambush",
+      "description": "",
+      "url": "https://abcnews.go.com/US/wireStory/deputy-killed-officers-shot-california-ambush-71117248",
+      "urlToImage": "null",
+      "publishedAt": "2020-06-07T04:59:58Z",
+      "content": "SANTA CRUZ, Calif. -- \r\nA Northern California sheriffs deputy was killed and two law enforcement officers wounded Saturday when they were ambushed with gunfire and explosives while pursuing a suspect… [+1723 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "JOSH BOAK AP Economics Writer",
+      "title": "Anatomy of a political comeback: How Biden earned nomination",
+      "description": "",
+      "url": "https://abcnews.go.com/Politics/wireStory/anatomy-political-comeback-biden-earned-nomination-71109673",
+      "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_916f4f4f830249b7ba7ca0188cac6b99_16x9_992.jpg",
+      "publishedAt": "2020-06-06T17:15:47Z",
+      "content": "BALTIMORE -- \r\nIt seemed easy to write off Joe Biden.\r\nThe former vice president came across as easily blindsided at debates. The crowds at his presidential campaign speeches were far from stadium si… [+7295 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "German police detain 11 from alleged child sex abuse ring",
+      "description": "",
+      "url": "https://abcnews.go.com/International/wireStory/german-police-detain-11-alleged-child-sex-abuse-71109831",
+      "urlToImage": "https://s.abcnews.com/images/International/WireAP_e6582a07b97d4b8a801ebb0390f5777b_16x9_992.jpg",
+      "publishedAt": "2020-06-06T17:09:21Z",
+      "content": "BERLIN -- \r\nGerman police have detained 11 people suspected of involvement in the sexual abuse of at least three children, officials said Saturday.\r\nProsecutors said the group used sophisticated tech… [+565 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ANDREW TAYLOR Associated Press",
+      "title": "New jobs report diminishes GOP appetite for more virus aid",
+      "description": "",
+      "url": "https://abcnews.go.com/Business/wireStory/jobs-report-diminishes-gop-appetite-virus-aid-71107981",
+      "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_eef744ab6f3e4f24b35d57d578e6ccd8_16x9_992.jpg",
+      "publishedAt": "2020-06-06T15:45:05Z",
+      "content": "WASHINGTON -- \r\nA stronger than expected jobs report could further scramble an already uncertain picture for passing a fifth and possibly final coronavirus aid bill. The positive statistics are feedi… [+4568 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "More protests set in NYC amid lingering tensions over curfew",
+      "description": "",
+      "url": "https://abcnews.go.com/US/wireStory/protests-set-nyc-amid-lingering-tensions-curfew-71107203",
+      "urlToImage": "https://s.abcnews.com/images/US/WireAP_dd093eeb9ee7456c83cabb28d7ff0110_16x9_992.jpg",
+      "publishedAt": "2020-06-06T14:32:37Z",
+      "content": "NEW YORK -- \r\nAfter another mostly peaceful night, more demonstrations over the death of George Floyd in New York City were planned for Saturday amid lingering tension between protesters and police o… [+1111 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Benjamin Siegel, Katherine Faulders",
+      "title": "George Floyd's brother to testify in House hearing on police brutality",
+      "description": "",
+      "url": "https://abcnews.go.com/Politics/george-floyds-brother-testify-house-hearing-police-brutality/story?id=71098863",
+      "urlToImage": "https://s.abcnews.com/images/US/philadelphia-1-ap-er-200603_hpMain_16x9_992.jpg",
+      "publishedAt": "2020-06-06T14:32:31Z",
+      "content": "The House Judiciary Committee is expected to hear testimony on Wednesday from Philonise Floyd, George Floyd's brother, in the first House hearing on policing reforms since Floyd's death, two congress… [+2866 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "DYLAN LOVAN and REBECCA REYNOLDS YONKER Associated Press",
+      "title": "Kentucky police shooting video raises questions on tactics",
+      "description": "",
+      "url": "https://abcnews.go.com/US/wireStory/kentucky-police-shooting-video-raises-questions-tactics-71106729",
+      "urlToImage": "https://s.abcnews.com/images/US/WireAP_6e836c7696ad4820b82f2aae39592c6b_16x9_992.jpg",
+      "publishedAt": "2020-06-06T13:31:32Z",
+      "content": "LOUISVILLE, Ky. -- \r\nThe shooting of a popular Kentucky barbecue cook by law enforcement has raised new questions about use of force practices after police released videos of the clash this week.\r\nLo… [+4021 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Molly Nagle, John Verhovek",
+      "title": "Biden wins delegates needed to clinch Democratic nomination",
+      "description": "",
+      "url": "https://abcnews.go.com/Politics/biden-wins-delegates-needed-clinch-democratic-nomination/story?id=71102831",
+      "urlToImage": "https://s.abcnews.com/images/US/Election_2020_Joe_Biden_200605_hpMain_20200605-234825_16x9_992.jpg",
+      "publishedAt": "2020-06-06T10:27:26Z",
+      "content": "Former Vice President Joe Biden has officially secured the majority of delegates needed to formally be named the Democratic presidential nomination, according to ABC News delegate count.\r\nThe delegat… [+3819 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Christina Carrega",
+      "title": "After Breonna Taylor's death, a look at other black women killed during police encounters",
+      "description": "",
+      "url": "https://abcnews.go.com/US/breonna-taylors-death-black-women-killed-police-encounters/story?id=71057133",
+      "urlToImage": "https://s.abcnews.com/images/US/breonna-01-as-ht-200513_hpMain_16x9_992.jpg",
+      "publishedAt": "2020-06-06T09:20:00Z",
+      "content": "As George Floyd's death focuses renewed attention on the African American men who have been killed by police officers across the country and the deep-seated issue of bias in policing, advocates are a… [+9191 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Dr. Ayodola Adigun",
+      "title": "Why eye protection might be a necessary precaution against COVID-19",
+      "description": "",
+      "url": "https://abcnews.go.com/Health/eye-protection-precaution-covid-19/story?id=71089124",
+      "urlToImage": "https://s.abcnews.com/images/Health/coronavirus-icu-gty-jc-200605_hpMain_16x9_992.jpg",
+      "publishedAt": "2020-06-06T09:02:21Z",
+      "content": "As evidence mounts that the virus that causes COVID-19 can be transmitted through your eyes, researchers suggest that people in high-risk categories should wear eye protection, in addition to practic… [+3152 chars]"
+    }
+  ]
+}

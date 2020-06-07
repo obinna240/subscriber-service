@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Catherine E. Shoichet, CNN",
+      "title": "This Minnesota journalist says there's something important the media is missing about protests",
+      "description": "Mukhtar Ibrahim didn't imagine the communities he covers would be at the epicenter of protests sweeping the nation when he founded a startup news website in Minnesota last year. Now Ibrahim and his staff at the Sahan Journal are on the front lines.",
+      "url": "http://us.cnn.com/2020/06/07/us/minnesota-floyd-protests-sahan-journal/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200605155800-mukhtar-ibrahim-super-tease.jpg",
+      "publishedAt": "2020-06-07T05:11:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "By <a href=\"/profiles/jessie-yeung\">Jessie Yeung</a> and <a href=\"/profiles/jenni-marsh-profile\">Jenni Marsh</a>, CNN",
+      "title": "Live updates: George Floyd protests across the US",
+      "description": "Protests following the death of George Floyd, a black man who pleaded that he couldn't breathe while he was held down with a knee by a former Minneapolis police officer, continue. Follow here for the latest updates.",
+      "url": "http://www.cnn.com/us/live-news/george-floyd-protests-06-07-20/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200606230925-0606-peaceful-protests---pittsburgh-super-tease.jpg",
+      "publishedAt": "2020-06-07T04:34:40Z",
+      "content": "It's past midnight in New York and Washington, DC, and evening in Los Angeles, but big crowds are still out on the streets in both cities, and spirits are high.\r\nIn New York, protesters are marching … [+1973 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Amir Vera, CNN",
+      "title": "Minneapolis mayor booed by protesters after refusing to defund and abolish police",
+      "description": "Mayor Jacob Frey told a group of protesters he does not support abolishing the police department.",
+      "url": "http://us.cnn.com/2020/06/07/us/minneapolis-mayor-police-abolition/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200606221242-minneapolis-mayor-police-abolition-super-tease.jpg",
+      "publishedAt": "2020-06-07T04:04:31Z",
+      "content": "(CNN)While protests on Saturday were mostly peaceful, Minneapolis Mayor Jacob Frey was met with a chorus of boos after telling a group of demonstrators he did not support abolishing the city police d… [+1488 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Scottie Andrew, CNN",
+      "title": "There's a growing call to defund the police. Here's what it means",
+      "description": "Instead of funding a police department, a sizable chunk of a city's budget is invested in communities, especially marginalized ones where much of the policing occurs.",
+      "url": "http://us.cnn.com/2020/06/06/us/what-is-defund-police-trnd/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200603071138-02-george-floyd-protest-0531-washington-super-tease.jpg",
+      "publishedAt": "2020-06-07T03:19:07Z",
+      "content": "(CNN)There's a growing group of dissenters who believe Americans can survive without law enforcement as we know it. And Americans, those dissenters believe, may even be better off without it. \r\nThe s… [+6278 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Trump tried to rewrite reality on the protests. Here are the facts - CNN Video",
+      "description": "Facts First: CNN's Daniel Dale fact checks President Trump's comments about protests happening across the country as well as right outside the White House.",
+      "url": "http://us.cnn.com/videos/politics/2020/06/05/president-donald-trump-george-floyd-protests-facts-first-orig-vf.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200603112657-04-trump-church-visit-0601-super-tease.jpg",
+      "publishedAt": "2020-06-07T01:37:18.3908163Z",
+      "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Shannon Liao, CNN Business",
+      "title": "Here are the American sectors the jobs are coming back in",
+      "description": "As the US reopens in phases, more and more jobs are being added back to the economy. Unemployment officially fell to 13.3% in May as employers added 2.5 million jobs, the best month for job growth since the Bureau of Labor Statistics started tracking the data…",
+      "url": "http://www.cnn.com/2020/06/06/economy/jobs-restaurants-construction-dentists/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200606203503-08-jobs-restaurants-construction-retail-super-tease.jpg",
+      "publishedAt": "2020-06-07T01:17:47Z",
+      "content": "New York (CNN Business)As the US reopens in phases, more and more jobs are being added back to the economy. Unemployment officially fell to 13.3% in May as employers added 2.5 million jobs, the best … [+3561 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Fox News under fire for stock market graphic  - CNN Video",
+      "description": "A graphic was aired by Fox News that compared the stock market performance after high-profile cases of violence against black men. CNN's Brian Stelter and Victor Blackwell discuss.",
+      "url": "http://us.cnn.com/videos/media/2020/06/06/fox-news-graphic-stock-market-stelter-ndwknd-vpx.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200513234118-fox-news---file-super-tease.jpg",
+      "publishedAt": "2020-06-06T22:07:33.3140133Z",
+      "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Laura Ly, CNN",
+      "title": "After reviewing video, prosecutors charge police inspector instead of protester",
+      "description": "A Philadelphia police inspector is facing charges after prosecutors said a video shows him striking a student protester on the head with a metal baton.",
+      "url": "http://us.cnn.com/2020/06/06/us/philly-student-protester/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200601123343-george-floyd-protests-0530-philly-super-tease.jpg",
+      "publishedAt": "2020-06-06T13:13:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Former rookie Minneapolis police officers seek to blame senior officer Derek Chauvin in George Floyd death - CNN Video",
+      "description": "The defense strategies of two of the former police officers who were charged in the death of George Floyd are emerging following a preliminary hearing. CNN's Josh Campbell reports.",
+      "url": "http://us.cnn.com/videos/us/2020/06/05/police-officers-charged-george-floyd-death-court-vpx.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200604174750-04-court-sketches-charged-officers-george-floyd-super-tease.jpg",
+      "publishedAt": "2020-06-06T08:52:24.4521756Z",
+      "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Emma Reynolds and Henrik Pettersson, CNN",
+      "title": "Confirmed coronavirus cases are rising faster than ever",
+      "description": "New cases of the novel coronavirus are rising faster than ever worldwide, at a rate of more than 100,000 a day over a seven-day average.",
+      "url": "http://us.cnn.com/2020/06/05/world/coronavirus-cases-rising-faster-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200605154318-20200605-corona-new-cases-card-grey-super-tease.png",
+      "publishedAt": "2020-06-05T14:54:20Z",
+      "content": "By Emma Reynolds and Henrik Pettersson, CNN\r\nUpdated 10:54 AM ET, Fri June 5, 2020\r\nChat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.\r\n(CNN)New cases of the no… [+2800 chars]"
+    }
+  ]
+}

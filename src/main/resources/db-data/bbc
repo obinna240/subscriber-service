@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Brazil removes virus data amid rising death toll",
+      "description": "Brazil will now only report numbers for the past 24 hours, no longer giving the cumulative data.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-52952686",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D43F/production/_112753345_13feb0bf-0e3f-40b0-a6da-83599c489a71.jpg",
+      "publishedAt": "2020-06-07T03:51:50Z",
+      "content": "Image copyrightReutersImage caption\r\n Brazil has already recorded more than 35,000 coronavirus-related deaths\r\nBrazil has removed months of data on Covid-19 from a government website amid criticism o… [+2698 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Coronavirus 'a devastating blow for world economy'",
+      "description": "World Bank President David Malpass says billions of people will have their livelihoods affected.",
+      "url": "http://www.bbc.co.uk/news/business-52939846",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FB5B/production/_112374346_extremepoverty.jpg",
+      "publishedAt": "2020-06-07T00:58:01Z",
+      "content": "Image copyrightGetty Images\r\nThe coronavirus pandemic is a \"devastating blow\" for the world economy, according to World Bank President David Malpass.\r\nMr Malpass warned that billions of people would … [+2960 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Paris comes back to life with new normal",
+      "description": "Unrecognisable by its emptiness during lockdown, Paris rediscovers its raison d'être.",
+      "url": "http://www.bbc.co.uk/news/world-europe-52935145",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6133/production/_112738842_cafe1.jpg",
+      "publishedAt": "2020-06-06T23:06:00Z",
+      "content": "Image copyrightAFPImage caption\r\n Cafe culture returned to Paris last Tuesday and the French capital rediscovered its joie de vivre\r\nFear isn't something 88-year-old Mathilde gives into easily. Sitti… [+5692 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "US policemen charged for shoving elderly protester",
+      "description": "The officers filmed pushing a man, 75, to the ground have been charged with second degree-assault.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-52952237",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08g4cm9.jpg",
+      "publishedAt": "2020-06-06T22:27:12Z",
+      "content": "Media captionThe man approached police in Buffalo before being pushed backwards\r\nTwo US policemen have been charged with second-degree assault after they were filmed pushing a 75-year old protester t… [+3080 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Clashes at far-right coronavirus protest in Rome",
+      "description": "A rally by extremists and football fans over the government's response ended in clashes with police.",
+      "url": "http://www.bbc.co.uk/news/world-europe-52951920",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A555/production/_112752324_061829302-1.jpg",
+      "publishedAt": "2020-06-06T19:34:57Z",
+      "content": "Image copyrightReutersImage caption\r\n A plain-clothed police officer confronts a demonstrator at the Rome protest\r\nA rally by Italian far-right extremists and hardcore football fans over the governme… [+1904 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Iran police condemned after car fire kills Afghans",
+      "description": "Three Afghan refugees died when Iranian police shot at a car, causing it to crash and catch alight.",
+      "url": "http://www.bbc.co.uk/news/world-asia-52949429",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/59DD/production/_112750032_tv061424853.jpg",
+      "publishedAt": "2020-06-06T17:49:33Z",
+      "content": "Image copyrightEPAImage caption\r\n There is long-standing anger about alleged mistreatment of Afghans in Iran (file photo)\r\nThe deaths of three Afghan refugees in a car fire in Iran has prompted an ou… [+2348 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "US capital braces for biggest demonstration yet",
+      "description": "Large crowds are expected to protest in Washington DC against racism and police brutality.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-52951093",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08g7158.jpg",
+      "publishedAt": "2020-06-06T15:40:40Z",
+      "content": "Media caption\"Fifty plus years later we're still dealing with the same thing\"\r\nLarge crowds are expected to protest in Washington DC against racism and police brutality, amid rising anger in the US s… [+9550 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Thousands turn out for UK George Floyd protests",
+      "description": "Protesters have been warned gatherings of more than six people are unlawful under coronavirus rules.",
+      "url": "http://www.bbc.co.uk/news/uk-52949014",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E8CA/production/_112749595_hi061820195.jpg",
+      "publishedAt": "2020-06-06T13:51:24Z",
+      "content": "Image copyrightReutersImage caption\r\n Thousands of protesters have gathered in Parliament Square\r\nCrowds have gathered across the UK as protests over the death of George Floyd get under way.\r\nProtest… [+3901 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Vatican arrest man over luxury property deal",
+      "description": "The Vatican's £160m ($200m) purchase of a London apartment block is the subject of an investigation.",
+      "url": "http://www.bbc.co.uk/news/world-europe-52949421",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11945/production/_112750027_tv061769130.jpg",
+      "publishedAt": "2020-06-06T13:41:06Z",
+      "content": "Image copyrightGetty ImagesImage caption\r\n Pope Francis has suggested the property deal was corrupt\r\nAn Italian businessman who helped the Vatican to buy luxury property in London in a controversial … [+1602 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Hunting for future killer viruses",
+      "description": "Scientists are gathering data on how new diseases emerge in the hope of identifying future pandemics.",
+      "url": "http://www.bbc.co.uk/news/health-52786714",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14ACC/production/_112748648_p08f25v3.jpg",
+      "publishedAt": "2020-06-06T11:14:08Z",
+      "content": null
+    }
+  ]
+}

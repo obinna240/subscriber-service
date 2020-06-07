@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Editorial",
+      "title": "Exclusive: Russian hiring of Syrians to fight in Libya accelerated in May",
+      "description": "A Russian drive to recruit Syrians to fight in Libya for militia leader Khalifa Haftar accelerated in May when hundreds of mercenaries were signed up, five Syrian opposition sources and a regional source familiar with the matter said.",
+      "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/pCtGsOaAb04/exclusive-russian-hiring-of-syrians-to-fight-in-libya-accelerated-in-may-idUSKBN23E06H",
+      "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "publishedAt": "2020-06-07T06:10:42Z",
+      "content": "(Reuters) - A Russian drive to recruit Syrians to fight in Libya for militia leader Khalifa Haftar accelerated in May when hundreds of mercenaries were signed up, five Syrian opposition sources and a… [+5222 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Nandita Bose",
+      "title": "'A part of history': Calm prevails over D.C.'s biggest George Floyd protest",
+      "description": "Tens of thousands of demonstrators amassed in Washington and other U.S. cities on Saturday demanding an end to racism and brutality by law enforcement, as protests sparked by George Floyd's fatal encounter with Minneapolis police stretched into a 12th day.",
+      "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/SZ3A6n1wYL0/a-part-of-history-calm-prevails-over-d-c-s-biggest-george-floyd-protest-idUSKBN23C1A7",
+      "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200606&t=2&i=1521360137&w=1200&r=LYNXMPEG550W8",
+      "publishedAt": "2020-06-07T05:31:36Z",
+      "content": "WASHINGTON (Reuters) - Tens of thousands of demonstrators amassed in Washington and other U.S. cities on Saturday demanding an end to racism and brutality by law enforcement, as protests sparked by G… [+6199 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Victoria Waldersee",
+      "title": "Portuguese prosecutors to trawl German suspect's records in McCann case",
+      "description": "Portugal's prosecutor's office said on Saturday it would pore over its files to see if a German man suspected of murdering British girl Madeleine McCann, who disappeared in the southern Algarve region in 2007, has a criminal record there.",
+      "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/bhThcSu2xuE/portuguese-prosecutors-to-trawl-german-suspects-records-in-mccann-case-idUSKBN23D0JP",
+      "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200606&t=2&i=1521335015&w=1200&r=LYNXMPEG550J9",
+      "publishedAt": "2020-06-06T17:33:27Z",
+      "content": "LISBON/BERLIN (Reuters) - Portugal’s prosecutor’s office said on Saturday it would pore over its files to see if a German man suspected of murdering British girl Madeleine McCann, who disappeared in … [+2660 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Brian Munoz",
+      "title": "Protests against police violence sweep across small-town America",
+      "description": "Before sundown on Thursday around 150 protesters marched down the main street in Anna, Illinois, past Bob's Tavern, Oasis of Grace Church, Douglas Skating Rink and Casey's General Store holding homemade signs and chanting \"black lives matter.\"",
+      "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/zaJNXlkHocU/protests-against-police-violence-sweep-across-small-town-america-idUSKBN23C28Z",
+      "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200605&t=2&i=1521252298&w=1200&r=LYNXMPEG541KI",
+      "publishedAt": "2020-06-06T17:26:29Z",
+      "content": "ANNA, Ill./NEW YORK (Reuters) - Before sundown on Thursday around 150 protesters marched down the main street in Anna, Illinois, past Bob’s Tavern, Oasis of Grace Church, Douglas Skating Rink and Cas… [+4206 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Arriana McLymore",
+      "title": "'Am I going to get shot?' kids ask, as brands try to explain racism and violence to children",
+      "description": "For 8 minutes and 46 seconds - the time it took George Floyd, an unarmed black man, to die at the hands of Minneapolis police - cable TV kids channel Nickelodeon's screen went black on Tuesday to sounds of inhaling and exhaling, as white text flashed \"I can't…",
+      "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/l6vgHT3YF0g/am-i-going-to-get-shot-kids-ask-as-brands-try-to-explain-racism-and-violence-to-children-idUSKBN23D0H9",
+      "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200606&t=2&i=1521327149&w=1200&r=LYNXMPEG550GV",
+      "publishedAt": "2020-06-06T17:23:04Z",
+      "content": "NEW YORK (Reuters) - For 8 minutes and 46 seconds - the time it took George Floyd, an unarmed black man, to die at the hands of Minneapolis police - cable TV kids channel Nickelodeon’s screen went bl… [+3437 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "David Randall",
+      "title": "Wall Street Week Ahead: Bond investors look for Fed to justify steepening yield curve",
+      "description": "Expectations that the global economy has dodged the worst-case coronavirus pandemic scenarios have led to a dramatic sell-off in U.S. government bonds from their record highs, pushing the yield curve to its steepest level since March.",
+      "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/UleMeDfrqmY/wall-street-week-ahead-bond-investors-look-for-fed-to-justify-steepening-yield-curve-idUSKBN23C2V1",
+      "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200606&t=2&i=1521306612&w=1200&r=LYNXMPEG5420U",
+      "publishedAt": "2020-06-06T16:46:32Z",
+      "content": "NEW YORK (Reuters) - Expectations that the global economy has dodged the worst-case coronavirus pandemic scenarios have led to a dramatic sell-off in U.S. government bonds from their record highs, pu… [+3739 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Editorial",
+      "title": "Hamburg police use pepper spray as protests turn ugly",
+      "description": "Police in the German city of Hamburg used pepper spray on protesters on Saturday and were ready to deploy water cannons as some demonstrations in support of U.S. anti-racist protests against police brutality turned ugly.",
+      "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/A3cxa94ezxY/hamburg-police-use-pepper-spray-as-protests-turn-ugly-idUSKBN23D0QM",
+      "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200606&t=2&i=1521345576&w=1200&r=LYNXMPEG550QZ",
+      "publishedAt": "2020-06-06T16:24:01Z",
+      "content": "BERLIN (Reuters) - Police in the German city of Hamburg used pepper spray on protesters on Saturday and were ready to deploy water cannons as some demonstrations in support of U.S. anti-racist protes… [+647 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Editorial",
+      "title": "Protests worldwide embrace 'Black Lives Matter' movement",
+      "description": "Thousands took to the streets across Europe and Australia on Saturday, as did hundreds in Tokyo and Seoul, in support of days of U.S. protests against police brutality.",
+      "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/mqP2UWNyYYs/protests-worldwide-embrace-black-lives-matter-movement-idUSKBN23D0BO",
+      "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200606&t=2&i=1521326594&w=1200&r=LYNXMPEG550GJ",
+      "publishedAt": "2020-06-06T14:41:15Z",
+      "content": "LONDON (Reuters) - Thousands took to the streets across Europe and Australia on Saturday, as did hundreds in Tokyo and Seoul, in support of days of U.S. protests against police brutality. \r\nThe rolli… [+3616 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Krishna N. Das",
+      "title": "Exclusive: Malaysia - Even $3 billion not enough to settle 1MDB case with Goldman",
+      "description": "Malaysia's new government would not be willing to accept even compensation of $3 billion from Goldman Sachs in a settlement over the 1MDB scandal, the finance minister told Reuters, ruling out a figure that is far higher than the bank offered last year.",
+      "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/4RLTfBGUdYc/exclusive-malaysia-even-3-billion-not-enough-to-settle-1mdb-case-with-goldman-idUSKBN23D0JC",
+      "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200606&t=2&i=1521331683&w=1200&r=LYNXMPEG550J2",
+      "publishedAt": "2020-06-06T11:30:28Z",
+      "content": "KUALA LUMPUR (Reuters) - Malaysia’s new government would not be willing to accept even compensation of $3 billion from Goldman Sachs in a settlement over the 1MDB scandal, the finance minister told R… [+1427 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Raphael Satter",
+      "title": "Police arrest cyclist who confronted youngsters posting U.S. racial injustice flyers",
+      "description": "A cyclist whose videotaped confrontation with three youngsters posting flyers protesting racial injustice on a nature trail outside Washington drew widespread attention has been arrested and charged, police said late Friday.",
+      "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/bGMIA5u48UI/police-arrest-cyclist-who-confronted-youngsters-posting-u-s-racial-injustice-flyers-idUSKBN23D04G",
+      "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200606&t=2&i=1521322522&w=1200&r=LYNXMPEG55055",
+      "publishedAt": "2020-06-06T08:38:54Z",
+      "content": "WASHINGTON (Reuters) - A cyclist whose videotaped confrontation with three youngsters posting flyers protesting racial injustice on a nature trail outside Washington drew widespread attention has bee… [+965 chars]"
+    }
+  ]
+}
