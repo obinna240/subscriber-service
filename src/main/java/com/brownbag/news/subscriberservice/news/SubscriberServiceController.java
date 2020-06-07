@@ -1,35 +1,31 @@
 package com.brownbag.news.subscriberservice.news;
 
+import com.brownbag.news.subscriberservice.model.Feed;
+import com.brownbag.news.subscriberservice.service.FeedService;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.apache.http.HttpEntity;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.methods.HttpGet;
-//import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
-import org.springframework.util.LinkedMultiValueMap;
-import org.springframework.util.MultiValueMap;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.RestTemplate;
-import org.springframework.web.util.UriComponentsBuilder;
-
 import java.lang.reflect.Type;
-import java.net.URI;
+import java.util.ArrayList;
+import java.util.List;
 
 
+//examples used = > "CNN", "BBC News", "ABC News"
 @RestController
 @RequestMapping("/api/v1/subscriber")
 public class SubscriberServiceController {
 
-    public final String NEWSAPI = "http://newsapi.org/v2/top-headlines";
-    public final String APIKEY = "fd902d9d92fc420ca5bd973ec15139e4";
+//    public final String NEWSAPI = "http://newsapi.org/v2/top-headlines";
+//    public final String APIKEY = "fd902d9d92fc420ca5bd973ec15139e4";
     public final String DBSERVICEENDPOINT = "http://localhost:8991/api/v1/db/networks/name";
     RestTemplate restTemplate;
     ObjectMapper objectMapper;
+    FeedService feedService;
 
     @Autowired
     public SubscriberServiceController(RestTemplate restTemplate, ObjectMapper objectMapper) {
@@ -38,7 +34,8 @@ public class SubscriberServiceController {
     }
 
     @GetMapping("/{network}")
-    public ResponseEntity getNewsTopHeadLines(@PathVariable("network") String network) throws Exception {
+    @ResponseBody
+    public List<Feed> getNewsTopHeadLines(@PathVariable("network") String network) throws Exception {
         ResponseEntity<String> response = restTemplate.exchange(DBSERVICEENDPOINT+"/"+network, HttpMethod.GET, null, new ParameterizedTypeReference<String>() {
             @Override
             public Type getType() {
@@ -50,32 +47,43 @@ public class SubscriberServiceController {
         System.out.println(response.getBody());
         String newsName = objectMapper.readTree(response.getBody()).get("name").asText();
 
-        MultiValueMap<String, String> params = new LinkedMultiValueMap<String, String>();
+        if (StringUtils.containsIgnoreCase(newsName, "BBC")){
+            newsName = "bbc";
+        }
+        else if(StringUtils.containsIgnoreCase(newsName, "ABC")){
+            newsName = "abc";
+        }
 
-//        params.add("source", newsName);
-        params.add("source", "bbc-news");
-        params.add("apiKey", APIKEY);
-//http://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=fd902d9d92fc420ca5bd973ec15139e4
-        URI uri = UriComponentsBuilder.fromUriString(NEWSAPI).queryParams(params).build().toUri();
+        return StringUtils.isNotBlank(newsName) ? feedService.getFeedByName(newsName): new ArrayList<Feed>();
 
-//        HttpClient httpClient = new DefaultHttpClient();
-//        HttpGet g = new HttpGet("http://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=fd902d9d92fc420ca5bd973ec15139e4");
-//        HttpResponse responses = httpClient.execute(g);
-//        System.out.println(responses.getStatusLine());
-//        HttpEntity entity = responses.getEntity();
 
-        ResponseEntity e = restTemplate.exchange(uri, HttpMethod.GET, null, new ParameterizedTypeReference<String>() {
-            @Override
-            public Type getType() {
-                return super.getType();
-            }
-        });
-        return e;
+
     }
 
 }
 
 
+//        MultiValueMap<String, String> params = new LinkedMultiValueMap<String, String>();
+//
+////        params.add("source", newsName);
+//        params.add("source", "bbc-news");
+//        params.add("apiKey", APIKEY);
+////http://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=fd902d9d92fc420ca5bd973ec15139e4
+//        URI uri = UriComponentsBuilder.fromUriString(NEWSAPI).queryParams(params).build().toUri();
+//
+////        HttpClient httpClient = new DefaultHttpClient();
+////        HttpGet g = new HttpGet("http://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=fd902d9d92fc420ca5bd973ec15139e4");
+////        HttpResponse responses = httpClient.execute(g);
+////        System.out.println(responses.getStatusLine());
+////        HttpEntity entity = responses.getEntity();
+//
+//        ResponseEntity e = restTemplate.exchange(uri, HttpMethod.GET, null, new ParameterizedTypeReference<String>() {
+//            @Override
+//            public Type getType() {
+//                return super.getType();
+//            }
+//        });
+//        return e;
 
 
 

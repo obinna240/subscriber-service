@@ -8,5 +8,5 @@ import java.util.List;
 
 public interface FeedRepository extends PagingAndSortingRepository<Feed, Integer> {
 
-    List<Feed> findByName(String name, Pageable pageable);
+    List<Feed> findByName(String name);
 }

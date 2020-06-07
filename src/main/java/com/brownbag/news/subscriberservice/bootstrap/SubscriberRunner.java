@@ -3,8 +3,10 @@ package com.brownbag.news.subscriberservice.bootstrap;
 import com.brownbag.news.subscriberservice.model.Feed;
 import com.brownbag.news.subscriberservice.repository.FeedRepository;
 import org.springframework.boot.CommandLineRunner;
+import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 
+@Profile("prodmysql")
 @Component
 public class SubscriberRunner implements CommandLineRunner {
 

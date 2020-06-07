@@ -7,6 +7,6 @@ import java.util.List;
 
 public interface FeedService {
 
-    List<Feed> getFeedByName(String name, Pageable pageable);
+    List<Feed> getFeedByName(String name);
     List<Feed> getFeeds(Pageable pageable);
 }

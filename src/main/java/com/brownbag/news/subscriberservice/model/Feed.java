@@ -18,9 +18,7 @@ import javax.persistence.*;
 public class Feed {
 
     @Id
-    @GeneratedValue(generator = "UUID")
-    @GenericGenerator(name= "UUID", strategy = "org.hibernate.id.UUIDGenerator")
-    @Column(length = 36, columnDefinition = "varchar(36)", updatable = false, nullable = false)
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer serialId;
     private String name;
     @Column(length = 1000, columnDefinition = "varchar(1000)", nullable = true)
