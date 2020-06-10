@@ -20,7 +20,9 @@ import java.util.List;
 @RequestMapping("/api/v1/subscriber")
 public class SubscriberServiceController {
 
-    public final String DBSERVICEENDPOINT = "http://localhost:8991/api/v1/db/networks/name";
+    //run local "http://localhost:8991/api/v1/db/networks/name"
+    //here we use the service name for this DBSERVICEEDPOINT
+    public final String DBSERVICEENDPOINT = "http://newsdbservice/api/v1/db/networks/name";
     RestTemplate restTemplate;
     ObjectMapper objectMapper;
     FeedService feedService;
