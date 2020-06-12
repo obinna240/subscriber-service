@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.brownbag.news</groupId>
     <artifactId>subscriber-service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>subscriber-service</name>
     <description>Subscriber service</description>
 

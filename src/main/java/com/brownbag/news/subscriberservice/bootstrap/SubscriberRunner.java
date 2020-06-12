@@ -18,7 +18,7 @@ public class SubscriberRunner implements CommandLineRunner {
 
     //note in version 2 modify this
     private void loadObjects(){
-        if (feedRepository.count() == 0){
+        if (feedRepository.count() < 16){
             feedRepository.save(Feed.builder()
                     .content("SANTA CRUZ, Calif. " +
                             "A Northern California sheriffs deputy was killed and two law enforcement officers wounded Saturday when they were ambushed with gunfire and explosives while pursuing a suspect…")
@@ -201,6 +201,61 @@ public class SubscriberRunner implements CommandLineRunner {
                     .title("Hunting for future killer viruses")
                     .name("bbc")
                     .author("BBC News")
+                    .build());
+
+            feedRepository.save(Feed.builder()
+                    .content("The victory of Duplantis, the record of Warholm and the race of Johaug: what was the memorable exhibition tournament in the framework of the Diamond League")
+                    .description("Diamond league")
+                    .publishedAt("2020-06-12T07:11:07Z")
+                    .urlToImage("https://cdni.rt.com/russian/images/2020.06/article/5ee2919aae5ac93f383a73e4.jpg")
+                    .url("https://russian.rt.com/sport/article/754498-brilliantovaya-liga-oslo")
+                    .title("Hunting for future killer viruses")
+                    .name("rt")
+                    .author("RT")
+                    .build());
+
+            feedRepository.save(Feed.builder()
+                    .content("All his words can be refuted ”: the former wife of the ex-football player Schalke told RT about the staging of his death")
+                    .description("Schalke")
+                    .publishedAt("2020-06-12T05:30:33Z")
+                    .urlToImage("https://cdni.rt.com/russian/images/2020.06/article/5ee23d5302e8bd533b0151a7.jpg")
+                    .url("https://russian.rt.com/world/article/754376-zhena-futbolist-inscenirovka-gibel")
+                    .title("Schalke football wife ex player")
+                    .name("rt")
+                    .author("Yana Dovgalenko")
+                    .build());
+
+            feedRepository.save(Feed.builder()
+                    .content("In the spirit of the times ...")
+                    .description("Russia Day is celebrated on Friday, June 12th. Vladimir Putin will attend the ceremony of raising the national flag on Poklonnaya Hill and will award Heroes of Labor. This year, due to the COVID-19 epidemic, the holiday will be held without mass festivities. For Russians prepared ...")
+                    .publishedAt("2020-06-12T04:30:05Z")
+                    .urlToImage("https://cdni.rt.com/russian/images/2020.06/article/5ee2af16ae5ac9634230fec3.jpg")
+                    .url("https://russian.rt.com/russia/article/754481-koncert-fleshmob-den-rossii")
+                    .title("In the spirit of the times: how the country celebrates Russia Day in 2020")
+                    .name("rt")
+                    .author("Roman Shimayev")
+                    .build());
+
+            feedRepository.save(Feed.builder()
+                    .content("Vladimir Zelensky said that his predecessor, Petro Poroshenko, was an\" experienced manipulator and an experienced politician, \"so he is not trustworthy. According to Zelensky, Poroshenko sought a meeting with him and offered help that the current Ukrainian leader ...")
+                    .description("Vladimir Zelensky said that his predecessor, ...")
+                    .publishedAt("2020-06-11T21:47:00Z")
+                    .urlToImage("https://cdni.rt.com/russian/images/2020.06/article/5ee22d6c02e8bd4a3f7db40a.jpg")
+                    .url("https://russian.rt.com/ussr/article/754374-zelenskii-poroshenko-prezident")
+                    .title("Experienced manipulator \": why Zelensky declared\" distrust \"in Poroshenko")
+                    .name("rt")
+                    .author("Aleksandr Karpov, Alona Medvedeva, Maksim Lobanov")
+                    .build());
+
+            feedRepository.save(Feed.builder()
+                    .content("Vladimir Zelensky said that his predecessor, Petro Poroshenko, he is not trustworthy. According to Zelensky, Poroshenko sought a meeting with him and offered help that the current Ukrainian leader ...")
+                    .description("Vladimir Zelensky said that his predecessor, ...")
+                    .publishedAt("2020-05-10T21:47:00Z")
+                    .urlToImage("https://cdni.rt.com/russian/images/2020.06/article/5ee22d6c02e8bd4a3f7db40a.jpg")
+                    .url("https://russian.rt.com/ussr/article/754374-zelenskii-poroshenko-prezident")
+                    .title("Experienced manipulator \": why Zelensky declared\" distrust \"in Poroshenko")
+                    .name("rt")
+                    .author("Aleksandr Karpov, Alona Medvedeva, Maksim Lobanov")
                     .build());
         }
     }
